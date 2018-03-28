@@ -7,6 +7,14 @@ import javax.swing.JButton;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 
+/**
+*
+*The class TimePanel is an extension of JPanel, and allows for the minesweeper application to display the play time to the use
+*
+*@author Yehuda Friedman, YouYang Xu
+*
+*/
+
 public class TimePanel extends JPanel{
 
 	//This class is an extension of JPanel, and uses the Timer class and my custom DisplayTask class to display a timer which 

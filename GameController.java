@@ -11,7 +11,7 @@ import javax.swing.*;
  * of the view, and has a method <b>play</b> which computes the next
  * step of the game, and  updates model and view.
  *
- * @author Guy-Vincent Jourdan, University of Ottawa
+ * @author Yehuda Friedman, YouYang Xu
  */
 
 

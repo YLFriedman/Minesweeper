@@ -10,7 +10,7 @@ import javax.swing.*;
  * <b>JFrame</b> and lays out a matrix of <b>DotButton</b> (the actual game) and 
  * two instances of JButton. The action listener for the buttons is the controller.
  *
- * @author Guy-Vincent Jourdan, University of Ottawa
+ * @author Yehuda Friedman, YouYang Xu
  */
 
 public class GameView extends JFrame {

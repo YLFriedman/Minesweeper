@@ -3,7 +3,7 @@
 /**
  * The class <b>Mineseeper</b> launches the game
  *
- * @author Guy-Vincent Jourdan, University of Ottawa
+ * @author Yehuda Friedman, YouYang Xu
  */
 public class Minesweeper {
 
